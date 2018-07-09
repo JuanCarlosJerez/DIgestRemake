@@ -1,0 +1,276 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+  color: lightgray;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+body {
+  background-color: #1c1e26;
+}
+
+ {
+  margin: 0;
+}
+
+.HB {
+  display: inline-block;
+  font-size: 6rem;
+  font-family: Andale Mono, monospace;
+  font-weight: lighter;
+}
+
+#MenuB {
+  margin: 10rem 0 0 10rem;
+}
+
+#DIGEST {
+  margin: 10rem 42rem 0 42rem;
+  color: lightgray;
+  font-weight: lighter;
+  font-size: 3rem;
+}
+
+#carouselControls {
+  margin: 1rem 10rem 0rem 10rem;
+}
+
+.Photo1 {
+  position: relative;
+  margin: 5rem 5rem 5rem 10rem;
+}
+
+.RedB {
+  position: absolute;
+  top: 5rem;
+  left: 5rem;
+  font-size: 1.5rem;
+  margin-right: 30%;
+}
+
+.SubRedB {
+  position: absolute;
+  bottom: 5rem;
+  left: 5rem;
+}
+
+.Photo2 {
+  position: relative;
+  margin: 5rem 10rem 5rem 0;
+}
+
+.BlueM {
+  position: absolute;
+  top: 5rem;
+  left: 5rem;
+}
+
+.SubBlueM {
+  position: absolute;
+  top: 8rem;
+  left: 5rem;
+}
+
+.SubBM {
+  position: absolute;
+  bottom: 5rem;
+  left: 5rem;
+}
+
+.Photo3 {
+  position: relative;
+  margin: 0 5rem 0 0rem;
+  height: 30rem;
+  width: 70%;
+}
+
+.GreenP {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+}
+
+.SubGreenP {
+  position: absolute;
+  top: 5rem;
+  right: 2rem;
+}
+
+.SubGP {
+  position: absolute;
+  bottom: 3rem;
+  right: 2rem;
+}
+
+.Photo4 {
+  position: relative;
+  margin: 5rem 5rem 5rem 10rem;
+  height: 30rem;
+  width: 35%;
+}
+
+.WhiteW {
+  position: absolute;
+  top: 40%;
+  left: .5rem;
+}
+
+.SubWW {
+  position: absolute;
+  bottom: 2rem;
+  right: 3rem;
+}
+
+.Photo5 {
+  position: relative;
+  margin: 5rem 5rem 5rem 0;
+  height: 30rem;
+  width: 35%;
+}
+
+.SubOrangeB {
+  position: absolute;
+  top: .5rem;
+  right: 45%;
+  text-align: center;
+}
+
+.OrangeB {
+  position: absolute;
+  top: 8rem;
+  right: 2%;
+  text-align: center;
+}
+
+.Cars {
+  position: absolute;
+  top: 15rem;
+  right: .25rem;
+  text-align: center;
+}
+
+.SubOB {
+  position: absolute;
+  bottom: 2rem;
+  right: 5%;
+  text-align: center;
+}
+
+.Photo6 {
+  position: relative;
+  margin: 0 10rem 5rem 0;
+}
+
+.BlackF {
+  position: absolute;
+  top: 7rem;
+  left: 33%;
+}
+
+.SubBlackF {
+  position: absolute;
+  top: 14rem;
+  left: 38%;
+}
+
+.SubBF {
+  position: absolute;
+  bottom: 1rem;
+  left: 33%;
+}
+
+.Photo7 {
+  position: relative;
+  margin: 0 5rem 5rem 10rem;
+}
+
+.BlueT {
+  position: absolute;
+  top: 1rem;
+  right: 2.3rem;
+}
+
+.SubBlueT {
+  position: absolute;
+  bottom: 5rem;
+  left: 2rem;
+}
+
+.SubBT {
+  position: absolute;
+  bottom: 3rem;
+  left: 2rem;
+}
+
+.Photo8 {
+  position: relative;
+  margin: 0 10rem 5rem 0;
+}
+
+.BallonsR {
+  position: absolute;
+  top: 1rem;
+  left: 1.5rem;
+}
+
+.SubBalloonsR {
+  position: absolute;
+  bottom: 65%;
+  right: 75%;
+}
+
+.SubBR {
+  position: absolute;
+  bottom: 40%;
+  left: 7%;
+}
+
+#FirstRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#SecondRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#SecondSubColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#SecondSubRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#ThirdRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.IMG1 {
+  height: 30rem;
+  width: 100%;
+}
+
+.IMG2 {
+  height: 30rem;
+  width: 100%;
+}
+
+.IMG {
+  height: 100%;
+  width: 100%;
+}
